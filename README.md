@@ -1,5 +1,6 @@
 ### Hi there 👋  I'm Theophilus 
-- 🔭 I’m currently working on frontend development in South Africa 🇿🇦
+- 🔭 I’m currently working as a data analyst in South Africa 🇿🇦<br>
+- 📊 I specializing in extracting insights from complex datasets..<br>
 - 🌱 I’m currently learning Golang, 
    Go Gophers <img src="http://smileys.emoticonsonly.com/emoticons/g/gopher-283.gif" border="2" alt="Gopher" title = "Gopher emoticon" />
 <!--
